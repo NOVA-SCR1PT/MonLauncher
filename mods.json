@@ -1,0 +1,16 @@
+[
+  {
+    "nom": "EasyCPVP-1.5.jar",
+    "titre": "EasyCPVP 1.5",
+    "type": "mod",
+    "url": "https://github.com/NOVA-SCR1PT/MonLauncher/releases/download/mods-v1/EasyCPVP-1.5.jar",
+    "image": "https://raw.githubusercontent.com/NOVA-SCR1PT/MonLauncher/main/images/easycpvp.png"
+  },
+  {
+    "nom": "PvPpack-beta.zip",
+    "titre": "PvP Pack (beta)",
+    "type": "texture",
+    "url": "https://github.com/NOVA-SCR1PT/MonLauncher/releases/download/mods-v1/PvPpack-beta.zip",
+    "image": "https://raw.githubusercontent.com/NOVA-SCR1PT/MonLauncher/main/images/pvppack.png"
+  }
+]
