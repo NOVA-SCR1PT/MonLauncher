@@ -23,13 +23,13 @@ except ImportError:
 # ============================================================
 # REGLAGES : remplace les valeurs "TON_..." par les tiennes
 # ============================================================
-NOM_APPLI = "Mon Launcher"
+NOM_APPLI = "minecraft mods"
 
-URL_GITHUB = "https://github.com/TON_PSEUDO"          # ta page GitHub
+URL_GITHUB = "https://github.com/NOVA-SCR1PT"          # ta page GitHub
 URL_DISCORD = "https://discord.gg/TON_INVITATION"     # invitation de ton serveur
 
-GITHUB_DEPOT = "TON_PSEUDO/TON_DEPOT"                 # pour l'onglet Releases
-URL_LISTE_MODS = "https://raw.githubusercontent.com/TON_PSEUDO/TON_DEPOT/main/mods.json"
+GITHUB_DEPOT = "NOVA-SCR1PT/MonLauncher"                 # pour l'onglet Releases
+URL_LISTE_MODS = "https://raw.githubusercontent.com/NOVA-SCR1PT/MonLauncher/main/mods.json"
 
 # Onglet Idees : lien "formResponse" de ton Google Form + numero du champ
 FORM_URL = "https://docs.google.com/forms/d/e/TON_ID_FORM/formResponse"
